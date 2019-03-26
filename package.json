@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tazz509/npm-lab-noukod-000/issues"
   },
-  "homepage": "https://github.com/tazz509/npm-lab-noukod-000#readme"
+  "homepage": "https://github.com/tazz509/npm-lab-noukod-000#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
