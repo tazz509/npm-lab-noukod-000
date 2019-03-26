@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/tazz509/npm-lab-noukod-000/issues"
   },
-  "homepage": "https://github.com/tazz509/npm-lab-noukod-000#readme"
+  "homepage": "https://github.com/tazz509/npm-lab-noukod-000#readme",
+  "dependencies": {
+    "learn-browser": "^0.1.24"
+  }
 }
